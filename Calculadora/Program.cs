@@ -22,9 +22,9 @@ namespace Calculadora  //Nome projeto
 
             Console.WriteLine("A soma de {0} com {1} = {2}", numero1, numero2, numero1+numero2);
             Console.WriteLine("A soma de: " + numero1 + "+" + numero2 + "=" + (numero1 + numero2));
-            Console.WriteLine($"A soma de {numero1} com {numero2} = {numero1+numero2}");
 
-            Console.WriteLine($"A soma de {numero1} com {numero2} = {numero1 + numero2}");
+            //Operações
+            Console.WriteLine($"A soma de {numero1} com {numero2} = {numero1+numero2}");
             Console.WriteLine($"O produto de {numero1} com {numero2} = {numero1 * numero2}");
             Console.WriteLine($"A Divisão de {numero1} com {numero2} = {numero1 / numero2}");
             Console.WriteLine($"A Subtração de {numero1} com {numero2} = {numero1 - numero2}");

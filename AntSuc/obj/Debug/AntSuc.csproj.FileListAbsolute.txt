@@ -1,0 +1,7 @@
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\AntSuc\bin\Debug\AntSuc.exe.config
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\AntSuc\bin\Debug\AntSuc.exe
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\AntSuc\bin\Debug\AntSuc.pdb
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\AntSuc\obj\Debug\AntSuc.csproj.AssemblyReference.cache
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\AntSuc\obj\Debug\AntSuc.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\AntSuc\obj\Debug\AntSuc.exe
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\AntSuc\obj\Debug\AntSuc.pdb

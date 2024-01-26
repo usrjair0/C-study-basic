@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora\Calculadora.csproj", "{470DC60E-9891-44C9-944E-9FEF3B8FD0A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntSuc", "AntSuc\AntSuc.csproj", "{03435B57-48E0-4B35-8701-1905A5935F51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{470DC60E-9891-44C9-944E-9FEF3B8FD0A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{470DC60E-9891-44C9-944E-9FEF3B8FD0A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{470DC60E-9891-44C9-944E-9FEF3B8FD0A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03435B57-48E0-4B35-8701-1905A5935F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03435B57-48E0-4B35-8701-1905A5935F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03435B57-48E0-4B35-8701-1905A5935F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03435B57-48E0-4B35-8701-1905A5935F51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
