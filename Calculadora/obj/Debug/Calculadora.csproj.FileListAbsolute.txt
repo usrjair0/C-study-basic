@@ -1,0 +1,7 @@
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\Calculadora\obj\Debug\Calculadora.pdb
