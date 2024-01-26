@@ -1,0 +1,7 @@
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\Loteria\bin\Debug\Loteria.exe.config
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\Loteria\bin\Debug\Loteria.exe
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\Loteria\bin\Debug\Loteria.pdb
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\Loteria\obj\Debug\Loteria.csproj.AssemblyReference.cache
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\Loteria\obj\Debug\Loteria.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\Loteria\obj\Debug\Loteria.exe
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\Loteria\obj\Debug\Loteria.pdb

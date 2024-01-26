@@ -14,8 +14,8 @@ namespace AntSuc
             Console.Write("Digite um número: ");
             int numero = int.Parse(Console.ReadLine());
             Console.WriteLine($"a sequência para o número selecionado é: {numero-1};{numero};{numero+1}");
-            Console.WriteLine($"Seu antecessor é {numero - 1}");
-            Console.WriteLine($"Seu sucessor é {numero + 1}");
+            Console.WriteLine($"Seu antecessor é {numero-1}");
+            Console.WriteLine($"Seu sucessor é {numero+1}");
             Console.WriteLine("Pressione Enter para encerrar o programa");
             Console.ReadLine();
         }
