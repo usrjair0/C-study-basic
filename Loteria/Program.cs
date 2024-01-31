@@ -13,6 +13,8 @@ namespace Loteria
             /*Passo 1 -> obter o valor apostado por cada amigo
               Passo 2-> obter o valor do premio
               Passo 3  -> regras de 3 para saber quanto cada um ganhará sobre o valor total da aposta*/
+
+            #region "Entrada de dados"
             Console.WriteLine("qual o valor do prêmio?");
             double premio = double.Parse(Console.ReadLine());
 
@@ -24,6 +26,8 @@ namespace Loteria
 
             Console.WriteLine("qual o valor apostado pelo jogador 3?");
             double valorjog3 = double.Parse(Console.ReadLine());
+
+            #endregion
 
             double totalAposta = valorjog1 + valorjog2 + valorjog3;
 
