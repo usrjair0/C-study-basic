@@ -29,14 +29,21 @@ namespace Loteria
 
             #endregion
 
+            #region "Processamento"
+
             double totalAposta = valorjog1 + valorjog2 + valorjog3;
+
+            #endregion
+
+            #region "Saída"
 
             Console.WriteLine($"O jogador 1 receberá: {(valorjog1/totalAposta)*premio}");
             Console.WriteLine($"O jogador 2 receberá: {(valorjog2 / totalAposta) * premio}");
             Console.WriteLine($"O jogador 3 receberá: {(valorjog3 / totalAposta) * premio}");
-
             Console.WriteLine("Digite Enter para sair");
             Console.ReadLine();
+
+            #endregion
         }
     }
 }
