@@ -26,13 +26,9 @@ namespace Escola
             Console.Write("Quantas faltas o aluno teve: ");
             double faltasAluno = double.Parse(Console.ReadLine());
 
-            if (faltasAluno > limiteFaltas)
-            {
-                Console.WriteLine($"Reprovado por falta! {faltasAluno}");
+            if (faltasAluno <= limiteFaltas)
 
-            }else
             {
-                
                 Console.Write("Digite a primeira nota: ");
                 double nota1 = double.Parse(Console.ReadLine());
 
@@ -44,18 +40,15 @@ namespace Escola
 
                 double mediaNotas = (nota1 + nota2 + nota3) / 3;
 
-                if (mediaNotas < MEDIAAPROVACAO)
-
-                {
-                    Console.WriteLine($"A média foi {mediaNotas:0.0}. Reprovado por média! ");
-                }
-                else
-                {
+                if (mediaNotas >= MEDIAAPROVACAO)
                     Console.WriteLine($"A média foi {mediaNotas:0.0}. Aprovado por média!");
-                }
-
+                else
+                    Console.WriteLine($"A média foi {mediaNotas:0.0}. Reprovado por média! ");
+                
             }
-            
+            else
+                Console.WriteLine($"Reprovado por falta! {faltasAluno}");
+
             Console.WriteLine("Pressione ENTER para encerrar o programa");
             Console.ReadLine();
         }
