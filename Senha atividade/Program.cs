@@ -4,27 +4,25 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Senha
+namespace Senha_atividade
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("==bem vindo ao programa Senha!==");
+            Console.WriteLine("==bem vindo ao programa Acesso!==");
 
             Console.Write("informe sua senha: ");
             string senha = Console.ReadLine();
 
-            if(senha == "123")
+            if (senha == "904087")
             {
-                Console.WriteLine("Senha correta!");
-                Console.WriteLine("você vai ter acesso a uma novidade!");
-            }else 
-            {
-                Console.WriteLine("você errou");
-                Console.WriteLine("digite novamente.");
+                Console.WriteLine("Acesso permitido!");
             }
-                
+            else
+            {
+                Console.WriteLine("você não tem acesso ao sistema.");
+            }
 
             Console.WriteLine("Digite Enter para sair");
             Console.ReadLine();
