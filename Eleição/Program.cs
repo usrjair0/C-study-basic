@@ -42,9 +42,8 @@ namespace Eleição
             }
             */
             Console.WriteLine("---Bem vindo ao programa Eleição---");
-
             Console.Write("Escolha seu código de voto: ");
-            int voto = int.Parse(Console.ReadLine());
+            byte voto = byte.Parse(Console.ReadLine());
 
             if (voto == 1)
                 Console.WriteLine("Voto contabilizado com sucesso");
@@ -58,7 +57,7 @@ namespace Eleição
                 Console.WriteLine("Voto nulo contabilizado");
             if (voto == 6)
                 Console.WriteLine("Voto branco contabilizado");
-
+            
             Console.WriteLine("Pressione ENTER para sair");
             Console.ReadLine();
 
