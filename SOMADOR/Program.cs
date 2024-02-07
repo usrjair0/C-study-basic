@@ -23,7 +23,7 @@ namespace SOMADOR
             Console.Write("Digite o terceiro número: ");
             double num3 = double.Parse(Console.ReadLine());
 
-            Console.WriteLine($"A soma é : {num1+num2+num3}");
+            Console.WriteLine($"A soma é: {num1+num2+num3}");
             Console.WriteLine("Digite enter para sair");
             Console.ReadLine();
         }
