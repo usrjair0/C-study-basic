@@ -1,0 +1,7 @@
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\verificador par ou impar\bin\Debug\verificador par ou impar.exe.config
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\verificador par ou impar\bin\Debug\verificador par ou impar.exe
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\verificador par ou impar\bin\Debug\verificador par ou impar.pdb
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\verificador par ou impar\obj\Debug\verificador par ou impar.csproj.AssemblyReference.cache
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\verificador par ou impar\obj\Debug\verificador par ou impar.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\verificador par ou impar\obj\Debug\verificador par ou impar.exe
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\verificador par ou impar\obj\Debug\verificador par ou impar.pdb
