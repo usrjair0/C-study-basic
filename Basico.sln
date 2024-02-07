@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escola", "Escola\Escola.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eleição", "Eleição\Eleição.csproj", "{2BB4AEAC-7B52-4712-9034-D658807D8166}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOMADOR", "SOMADOR\SOMADOR.csproj", "{B5B0CD73-3C98-4155-832E-EFC5926A7ABE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{2BB4AEAC-7B52-4712-9034-D658807D8166}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BB4AEAC-7B52-4712-9034-D658807D8166}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BB4AEAC-7B52-4712-9034-D658807D8166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5B0CD73-3C98-4155-832E-EFC5926A7ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B0CD73-3C98-4155-832E-EFC5926A7ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B0CD73-3C98-4155-832E-EFC5926A7ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B0CD73-3C98-4155-832E-EFC5926A7ABE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
