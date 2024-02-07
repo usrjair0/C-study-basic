@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conversor kelvin celsius", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maior que 100", "maior que 100\maior que 100.csproj", "{8CA29373-24C4-4115-8005-25144F5A9FA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pesoideal", "Pesoideal\Pesoideal.csproj", "{65DB4929-A7BE-4EE5-A779-00143EE17FF9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{8CA29373-24C4-4115-8005-25144F5A9FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CA29373-24C4-4115-8005-25144F5A9FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CA29373-24C4-4115-8005-25144F5A9FA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65DB4929-A7BE-4EE5-A779-00143EE17FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65DB4929-A7BE-4EE5-A779-00143EE17FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65DB4929-A7BE-4EE5-A779-00143EE17FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65DB4929-A7BE-4EE5-A779-00143EE17FF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
