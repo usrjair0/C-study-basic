@@ -1,0 +1,7 @@
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\SOMA 5 NUMEROS\bin\Debug\SOMA 5 NUMEROS.exe.config
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\SOMA 5 NUMEROS\bin\Debug\SOMA 5 NUMEROS.exe
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\SOMA 5 NUMEROS\bin\Debug\SOMA 5 NUMEROS.pdb
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\SOMA 5 NUMEROS\obj\Debug\SOMA 5 NUMEROS.csproj.AssemblyReference.cache
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\SOMA 5 NUMEROS\obj\Debug\SOMA 5 NUMEROS.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\SOMA 5 NUMEROS\obj\Debug\SOMA 5 NUMEROS.exe
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\SOMA 5 NUMEROS\obj\Debug\SOMA 5 NUMEROS.pdb
