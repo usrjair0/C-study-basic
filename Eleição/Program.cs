@@ -40,7 +40,7 @@ namespace Eleição
                     Console.WriteLine("Código inválido");
                     break;
             }
-            */
+            
             Console.WriteLine("---Bem vindo ao programa Eleição---");
             Console.Write("Escolha seu código de voto: ");
             byte voto = byte.Parse(Console.ReadLine());
@@ -60,7 +60,49 @@ namespace Eleição
             
             Console.WriteLine("Pressione ENTER para sair");
             Console.ReadLine();
+            */
 
+            Console.WriteLine("---Bem vindo ao programa ELEIÇÃO TURBO---");
+
+            int continuar = 0; int votoContabilizado = 0; int votoNulo = 0; int votoinvalido = 0;
+            int votoBranco = 0;
+            do
+            {
+                Console.Write("Qual seu voto? ");
+                int voto = int.Parse(Console.ReadLine());
+                switch (voto)
+                {
+                    case 1:
+                    case 2:
+                    case 3:
+                    case 4:
+                        Console.WriteLine("Voto contabilizado com sucesso");
+                        votoContabilizado++;
+                        break;
+                    case 5:
+                        Console.WriteLine("Voto nulo contabilizado");
+                        votoNulo++; 
+                        break;
+                    case 6:
+                        Console.WriteLine("Voto branco contabilizado");
+                        votoBranco++;
+                        break;
+                    default:
+                        Console.WriteLine("Código inválido");
+                        votoinvalido++;
+                        break;
+                }
+
+                Console.Write("Digite 1 para continuar votando ");
+                continuar = int.Parse(Console.ReadLine());
+
+            } while (continuar == 1);
+
+            Console.WriteLine($"Total de votos \nvotoscontabilizados com sucesso: {votoContabilizado}\n" +
+            $"Votos nulos: {votoNulo}\nVotos em branco: {votoBranco}\nVotos inválidos: {votoinvalido}");
+
+            Console.WriteLine("DIGITE ENTER PARA SAIR");
+            Console.ReadLine();
         }
     }
 }
