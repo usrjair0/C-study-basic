@@ -43,6 +43,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOMA 5 NUMEROS", "SOMA 5 NU
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maior", "Maior\Maior.csproj", "{59AE0B6F-20AA-41C5-8748-BAB3BB5E6922}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "par 10 a 100", "par 10 a 100\par 10 a 100.csproj", "{CC762E00-0E25-4842-A997-4E92E3C3A8BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prefeitura", "prefeitura\prefeitura.csproj", "{07932822-26BD-407A-AC4E-0FB8D341F3CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +133,14 @@ Global
 		{59AE0B6F-20AA-41C5-8748-BAB3BB5E6922}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59AE0B6F-20AA-41C5-8748-BAB3BB5E6922}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59AE0B6F-20AA-41C5-8748-BAB3BB5E6922}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC762E00-0E25-4842-A997-4E92E3C3A8BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC762E00-0E25-4842-A997-4E92E3C3A8BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC762E00-0E25-4842-A997-4E92E3C3A8BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC762E00-0E25-4842-A997-4E92E3C3A8BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07932822-26BD-407A-AC4E-0FB8D341F3CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07932822-26BD-407A-AC4E-0FB8D341F3CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07932822-26BD-407A-AC4E-0FB8D341F3CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07932822-26BD-407A-AC4E-0FB8D341F3CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
