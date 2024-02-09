@@ -12,50 +12,51 @@ namespace prefeitura
         {
             Console.WriteLine("---Bem vindo ao programa Prefeitura---");
 
-
             double maiorSalario = 0;
+            double salarioTotal = 0;
             int numeroHabitantes = 0;
             int numeroFilhosTotal = 0;
-            double salarioTotal = 0;
             int pessoasQueRecebemAte150 = 0;
             int continuar = 0;
             int i = 1;
-            double filhosAcumulados = 0;
-
+   
             do
             {
-
-                Console.WriteLine("Deseja responder o questionário? 1 para sim, 2 para não: ");
+                Console.Write("Deseja responder o questionário? 1 para sim, 2 para não: ");
                 continuar = int.Parse(Console.ReadLine());
+                if (continuar != 1)
+                    break; //se responder que não o programa já quebra
 
-                Console.Write($"Digite o salário habitante {i}: ");
+                Console.Write($"\nDigite o salário habitante {i}: ");
                 int salarioIndividual = int.Parse(Console.ReadLine());
-
                 salarioTotal += salarioIndividual;
-                maiorSalario = salarioIndividual > maiorSalario ? salarioIndividual : maiorSalario;
 
+                if (salarioIndividual > maiorSalario)
+                    maiorSalario = salarioIndividual;
                 if (salarioIndividual <= 150) 
                     pessoasQueRecebemAte150++;
 
                 Console.Write($"Digite o número de filhos do habitante {i}: ");
                 int numeroFilhosIndividual = int.Parse(Console.ReadLine());
-
                 numeroFilhosTotal += numeroFilhosIndividual;
-                filhosAcumulados = numeroFilhosTotal;
-
-                
+                Console.Write("\n");
 
                 i++;
                 numeroHabitantes++;
+
             } while (continuar == 1);
 
-            double filhosMedia = filhosAcumulados / numeroHabitantes;
-            double salarioMedia = salarioTotal/numeroHabitantes;
-            double pessoasQueRecebemAte150Porcentagem = (pessoasQueRecebemAte150 / numeroHabitantes) * 100;
+            if(numeroHabitantes == 0)
+                numeroHabitantes = 1;
 
-            Console.WriteLine($"A Média de filhos é: {filhosMedia}\nA média de salário é: {salarioMedia}\n" +
-                $"A porcentagem de pessoas que recebem até 150 é: {pessoasQueRecebemAte150Porcentagem}%\n" +
-                $"O maior salário registrado foi {maiorSalario}");
+            double filhosMedia = (double)numeroFilhosTotal / numeroHabitantes;
+            double salarioMedia = salarioTotal/numeroHabitantes;
+            double pessoasQueRecebemAte150Porcentagem = ((double)pessoasQueRecebemAte150 / numeroHabitantes) * 100;
+
+            Console.WriteLine($"A Média de filhos é: {filhosMedia:0.0}");
+            Console.WriteLine($"A Média de salário é: {salarioMedia:0.0}");
+            Console.WriteLine($"A Média pessoas que recebem até 150 é: {pessoasQueRecebemAte150Porcentagem:0.0}%");
+            Console.WriteLine($"O maior salário registrado foi {maiorSalario:0.0}");
 
             Console.WriteLine("DIGITE ENTER PARA SAIR");
             Console.ReadLine();
