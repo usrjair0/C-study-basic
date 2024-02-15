@@ -51,6 +51,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inteiros", "Inteiros\Inteir
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jogo", "jogo\jogo.csproj", "{62669CD4-5717-4B96-BA68-8B6E42F6ADE3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{3FA0AEFF-662D-432A-81D4-645339B2C8C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayValores", "ArrayValores\ArrayValores.csproj", "{EFBBEF94-0CDE-473A-A70C-786A9C1B278B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +157,14 @@ Global
 		{62669CD4-5717-4B96-BA68-8B6E42F6ADE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62669CD4-5717-4B96-BA68-8B6E42F6ADE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62669CD4-5717-4B96-BA68-8B6E42F6ADE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FA0AEFF-662D-432A-81D4-645339B2C8C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA0AEFF-662D-432A-81D4-645339B2C8C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FA0AEFF-662D-432A-81D4-645339B2C8C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FA0AEFF-662D-432A-81D4-645339B2C8C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFBBEF94-0CDE-473A-A70C-786A9C1B278B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFBBEF94-0CDE-473A-A70C-786A9C1B278B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFBBEF94-0CDE-473A-A70C-786A9C1B278B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFBBEF94-0CDE-473A-A70C-786A9C1B278B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

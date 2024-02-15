@@ -1,0 +1,7 @@
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\Array\bin\Debug\Array.exe.config
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\Array\bin\Debug\Array.exe
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\Array\bin\Debug\Array.pdb
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\Array\obj\Debug\Array.exe
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\Array\obj\Debug\Array.pdb
