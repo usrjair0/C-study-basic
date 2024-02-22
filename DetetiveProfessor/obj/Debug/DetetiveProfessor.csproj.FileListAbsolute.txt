@@ -1,7 +1,0 @@
-C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\DetetiveProfessor\bin\Debug\DetetiveProfessor.exe.config
-C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\DetetiveProfessor\bin\Debug\DetetiveProfessor.exe
-C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\DetetiveProfessor\bin\Debug\DetetiveProfessor.pdb
-C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\DetetiveProfessor\obj\Debug\DetetiveProfessor.csproj.AssemblyReference.cache
-C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\DetetiveProfessor\obj\Debug\DetetiveProfessor.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\DetetiveProfessor\obj\Debug\DetetiveProfessor.exe
-C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\DetetiveProfessor\obj\Debug\DetetiveProfessor.pdb
